@@ -1,0 +1,44 @@
+_repo: Chats-with-children-b-or-Pearls-for-young-people-strung-from-the-word-of-truth_74293
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Birch, C. B. (Charles Bell)
+    alias: Birch, Charles Bell
+    birthdate: 1832
+    deathdate: 1893
+    gutenberg_agent_id: '57427'
+    url: http://www.gutenberg.org/2009/agents/57427
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Bell_Birch
+  - agent_name: Free, E.
+    gutenberg_agent_id: '57426'
+    url: http://www.gutenberg.org/2009/agents/57426
+creator:
+  author:
+    agent_name: Le Feuvre, Amy
+    aliases:
+    - Feuvre, Amy Le
+    - Feuvre, Amy le
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '3736'
+    url: http://www.gutenberg.org/2009/agents/3736
+description: ''
+gutenberg_issued: '2024-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74293'
+language: en
+pgterms:marc905: 20240819071134lefeuvre
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bPickering & Inglis, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcc 'BV'
+- GITenberg
+title: 'Chats with children : $b or, Pearls for young people strung from the word
+  of truth'
+url: http://www.gutenberg.org/ebooks/74293
